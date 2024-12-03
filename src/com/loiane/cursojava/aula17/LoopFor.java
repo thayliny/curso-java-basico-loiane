@@ -7,7 +7,7 @@ public class LoopFor {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
 
-        int i;
+        //int i;
         int max = 10;
 
         for(int i=0; i < 5; i++)
@@ -26,10 +26,10 @@ public class LoopFor {
 
         //For com mais de uma varíavel -> se usa ; p/ separação
 
-        for( int i=0, j=10; i<j; i++, j--)
+        /*for( int i=0, j=10; i<j; i++, j--)
         {
 
-        }
+        }*/
 
         //Partes ausentes
 
