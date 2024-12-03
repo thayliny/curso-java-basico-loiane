@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Exercicio9 {
     public static void main(String[] args) {
-
+/*
         //ordem decrescente
         Scanner scan = new Scanner(System.in);
         int num1, num2, num3;
@@ -23,6 +23,6 @@ public class Exercicio9 {
 
         System.out.println(ordem1, ordem2, ordem3);
 
-
+*/
     }
 }
